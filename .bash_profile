@@ -12,7 +12,6 @@ alias ls='ls -GFh'
 export PATH="/Users/kaswani/anaconda/bin:$PATH"
 
 # geocoder
-export GOOGLE_API_KEY=AIzaSyCNWkomZd-zp7ZE3sWTzMBarg81n_PMt6A
 
 export STANFORDTOOLSDIR=$HOME
 export CLASSPATH=$STANFORDTOOLSDIR/stanford-ner-2016-10-31/stanford-ner.jar
